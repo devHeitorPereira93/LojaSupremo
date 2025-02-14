@@ -6,6 +6,8 @@
 
 # Desafio - Sistema de Loja Virtual "Estilo Supremo"
 
+![Interior da Loja Estilo Supremo](An_elegant_and_stylish_men's_clothing_store_interi.jpg)
+
 
 
 ## Sobre a Loja
